@@ -1,0 +1,2 @@
+include versioneer.py
+include tracewin/_version.py
